@@ -1,4 +1,4 @@
-<form action="" method="POST">
+<form action="dataUser.php" method="POST">
 	<body bgcolor="#aac4e7">
 		<center>
 			<br><br><br><br><br><br><br><br><br><br>
@@ -10,7 +10,7 @@
 			</tr>
 			<tr>
 				<td> Password 		: </td>
-				<td> <input type="text" name="pass" checked required=""> </td>
+				<td> <input type="Password" name="pass" checked required=""> </td>
 			</tr>
 			<tr>
 				<td> <input type="submit" name="login" value="Login"> </td>
